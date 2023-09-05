@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+In a 16-year career, I progressed from a Junior Developer in the eCommerce and Payments industry to a Founding Engineer, utilising modern technologies like Blockchain and AI in the web3 space.
+
+I've managed pivotal projects such as the Commonwealth Games 2018 and $500M/year eCommerce systems, adeptly transforming ideas into secure, successful ventures and products.
+
+Blending creativity and pragmatism, my cross-functional career has maintained me as a proficient Full Stack Engineer while hiring and managing 100+ remote engineers and talent. My leadership, stakeholder management, business acumen, and technical skills are consistently showcased.
+
+Feel free to reach out at hello@franciskim.co for a latest copy of my CV should you have any further interest! 😀
