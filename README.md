@@ -21,4 +21,6 @@ I've managed pivotal projects such as the Commonwealth Games 2018 and $500M/year
 
 Blending creativity and pragmatism, my cross-functional career has maintained me as a proficient Full Stack Engineer while hiring and managing 100+ remote engineers and talent. My leadership, stakeholder management, business acumen, and technical skills are consistently showcased.
 
+As an advocate for communities, I've started up various communities in both web2 and web3.
+
 Feel free to reach out at hello@franciskim.co for a latest copy of my CV should you have any further interest! 😀
