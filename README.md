@@ -1,2 +1,3 @@
-This is old, will update soon when I get a breather
+Edgerunning Crypto x AI
+
 ![leonardo-motion.gif](./leonardo-motion.gif)
